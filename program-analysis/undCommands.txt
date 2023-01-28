@@ -1,0 +1,47 @@
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/001/001.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/001
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/002/002.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/002
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/003/003.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/003
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/004/004.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/004
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/005/005.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/005
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/006/006.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/006
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/007/007.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/007
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/008/008.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/008
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/009/009.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/009
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/010/010.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/010
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/011/011.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/011
+analyze -all
+
+create -languages Web /mnt/volume1/dataset-generation/Slice4Context/unsliced/012/012.und
+add /mnt/volume1/dataset-generation/Slice4Context/unsliced/012
+analyze -all
